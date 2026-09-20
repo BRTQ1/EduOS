@@ -1,2 +1,0 @@
-# EduOS
-System edukacyjny
